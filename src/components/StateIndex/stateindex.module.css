@@ -1,0 +1,14 @@
+.StateIndex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: green;
+}
+.StateIndexFalse
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: red;
+}
